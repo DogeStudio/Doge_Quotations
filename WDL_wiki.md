@@ -31,7 +31,7 @@ WDL其人
 * 大量制作外挂的视频教程
 * 不详
 
-语录（中日文对照）
+语录
 -----------------------------------
 * [WDL语录本体](https://github.com/sg-first/Doge_Quotations/blob/master/WDL_Quotations.md)
 
