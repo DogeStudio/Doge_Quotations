@@ -4,7 +4,7 @@
 
 组织关系
 ---------------------------------------
-* [深海鱼油实验室]((https://github.com/sg-first/Doge_Quotations/blob/master/lab/sg-lab.md))（平行机构，技术组织）
+* [深海鱼油实验室](https://github.com/sg-first/Doge_Quotations/blob/master/lab/sg-lab.md)（平行机构，技术组织）
 * 双锅文娱（下设机构，含双锅E-book和双锅映画，~~文工组织~~）
 * 双锅程序（下设机构，生产力组织）
 
