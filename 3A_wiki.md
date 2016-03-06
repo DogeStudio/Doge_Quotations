@@ -30,7 +30,7 @@
 * 该人类能较为熟练的使用C++语言
 * 该人类无法正确的使用Scheme语言
 * 该人类能较为熟练的Qt库（对于C++的）
-* 该人类现居辽宁锦州
+* 该人类家乡辽宁锦州
 * 该人类是老师眼中的好学生
 * 该人类能熟练的使用中文写文章（不含考场作文）
 
@@ -43,28 +43,18 @@
 研究方向
 -----------------------------------
 * 装B*[1]*
-* 编程
+* 机器学习
 * 历史、政治与国际关系
-* CG
+* 程序分析
 
-代表成就
------------------------------------
-* 八中工具箱（生命周期结束）
-* 人工模拟世界（烂尾）
-* 宇宙文明模拟（未完成）
-* Life-Fire游戏引擎
-* XCLib
-* ……
+3A参与的开源项目
+----------------
+* [查看详情](https://github.com/sg-first/gist/blob/master/project.md)
 
-共同缔造
------------------------------------
-* 双锅文娱（含双锅映画、双锅E-book）
-* 双锅程序
-* 双锅新技术研发实验室（筹备的）
 
-语录（仅中文）
+语录
 -----------------------------------
-暂无数据
+* [3A语录本体](https://github.com/ice1000/dialogs/blob/master/dialogs/3A.md)
 
 注释
 -----------------------------------
@@ -78,8 +68,16 @@
 	* Jingxuan Yao
 	* Junyao Wang
 	* Di Zhang
+	* Yancheng Chen
+	* Yufei Song
+	* Xiangnv Luo
+	* Jingyuan Zhu
+	* Bingbing Lu
+	* Yuqing Zhao
+	* Mengfei Nie
+	* Manfei Su
+	* Jiaxi Lu
 	
 ### 団結して（が成功）の妹
-	* Chutian Xia
 	* Xiaotong Hong
 	* Lin Lu
