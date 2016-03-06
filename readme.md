@@ -1,4 +1,4 @@
-主页
+﻿主页
 ===================================
 
 浏览
@@ -11,6 +11,7 @@
 * [双锅工作室](https://github.com/sg-first/Doge_Quotations/blob/master/sg-studio.md)
 * [深海鱼油科学实验室](https://github.com/sg-first/Doge_Quotations/blob/master/lab/sg-lab.md)
 * [七夜的wiki](https://github.com/sg-first/Doge_Quotations/blob/master/qiye_wiki.md)
+* [K语言（人名）的wiki](https://github.com/sg-first/Doge_Quotations/blob/master/klang_wiki.md)
 
 发现更多
 -----------------------------------
