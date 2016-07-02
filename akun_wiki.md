@@ -15,3 +15,7 @@
 自述
 -----------
 装逼如风，常伴吾身
+
+语录
+-----------
+* [阿坤语录本体](https://github.com/DogeStudio/Doge_Quotations/blob/master/akun_Quotations.md)
