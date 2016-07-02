@@ -33,7 +33,7 @@ WDL其人
 
 语录
 -----------------------------------
-* [WDL语录本体](https://github.com/sg-first/Doge_Quotations/blob/master/WDL_Quotations.md)
+* [WDL语录本体](https://github.com/DogeStudio/Doge_Quotations/blob/master/WDL_Quotations.md)
 
 Other
 -----------------------------------

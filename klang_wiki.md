@@ -18,4 +18,4 @@ kukuzz(2334925967)，程序语言及CPU设计与实现专家，资深政治家�
 
 语录
 --------------------
-* [K语言语录本体](https://github.com/sg-first/Doge_Quotations/blob/master/klang_Quotations.md)
+* [K语言语录本体](https://github.com/DogeStudio/Doge_Quotations/blob/master/klang_Quotations.md)

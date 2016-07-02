@@ -26,4 +26,4 @@
 
 语录
 -----------------------------------
-* [七夜语录本体](https://github.com/sg-first/Doge_Quotations/blob/master/qiye_Quotations.md)
+* [七夜语录本体](https://github.com/DogeStudio/Doge_Quotations/blob/master/qiye_Quotations.md)
