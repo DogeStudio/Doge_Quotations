@@ -11,6 +11,7 @@
 * [七夜的wiki](https://github.com/DogeStudio/Doge_Quotations/blob/master/qiye_wiki.md)
 * [K语言（人名）的wiki](https://github.com/DogeStudio/Doge_Quotations/blob/master/klang_wiki.md)
 * [阿坤的wiki（仅中文）](https://github.com/DogeStudio/Doge_Quotations/blob/master/akun_wiki.md)
+* [杨柳青的wiki（仅中文）](https://github.com/DogeStudio/Doge_Quotations/blob/master/yangliu_wiki.md)
 
 发现更多
 -----------------------------------
