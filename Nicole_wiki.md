@@ -12,4 +12,4 @@ Nicole, still lolita now, but she is the world's richest man in the future. This
 
 Quotes(Only Chinese)
 -----------------------------------
-* [Nicole Quotes](https://github.com/sg-first/Doge_Quotations/blob/master/Nicole_Quotations.md)
+* [Nicole Quotes](https://github.com/DogeStudio/Doge_Quotations/blob/master/Nicole_Quotations.md)
